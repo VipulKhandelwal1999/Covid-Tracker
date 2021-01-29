@@ -1,4 +1,4 @@
-# COVID-19 Tracker
+# COVID TRACKER
 
 ### [Live Site](https://covid-tracker01.netlify.app/)
 
