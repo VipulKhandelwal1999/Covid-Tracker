@@ -2,7 +2,7 @@
 
 ### [Live Site](https://covid-tracker01.netlify.app/)
 
-![COVID-19 Tracker](https://raw.githubusercontent.com/VipulKhandelwal1999/Covid-Tracker/main/src/images/github_thumbnail.png)
+![COVID TRACKER](https://raw.githubusercontent.com/VipulKhandelwal1999/Covid-Tracker/main/src/images/github_thumbnail.png)
 
 ## Description
 
