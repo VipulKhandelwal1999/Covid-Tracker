@@ -1,0 +1,26 @@
+.formControl {
+  width: 30%;
+  margin-bottom: 30px !important;
+  color: #fff;
+  border: 1px solid #fff !important;
+}
+.formControl:active,
+.formControl:focus, .formControl select {
+  color: #fff;
+}
+
+.formControl svg{
+  color: #fff;
+}
+
+.formControl select {
+  padding-left: 1rem;
+  text-transform: uppercase;
+}
+.formControl select option { 
+  background-color: rgb(1, 1, 31) !important;
+  text-transform: uppercase;
+}
+.selectCountry {
+  color: #fff;
+}
